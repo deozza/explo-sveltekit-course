@@ -1,6 +1,6 @@
-[submodule "fr/js/nodejs/svelte/sveltekit/explo-frontend-sveltekit"]
-	path = fr/js/nodejs/svelte/sveltekit/explo-frontend-sveltekit
+[submodule "explo-frontend-sveltekit"]
+	path = explo-frontend-sveltekit
 	url = https://github.com/deozza/explo-frontend-sveltekit
-[submodule "fr/js/nodejs/svelte/sveltekit/svelte-pokedex"]
-	path = fr/js/nodejs/svelte/sveltekit/svelte-pokedex
+[submodule "svelte-pokedex"]
+	path = svelte-pokedex
 	url = https://github.com/deozza/svelte-pokedex
