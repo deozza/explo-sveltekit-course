@@ -144,7 +144,7 @@ Nous allons créer une nouvelle page `à propos` pour notre application, qui ser
 
 Dans un terminal, lancez la commande `npm run dev -- --open` pour démarrer le serveur et voir notre page : 
 
-![1-create_page](../../../../assets/js/nodejs/svelte/sveltekit/1-create_page.png)
+![1-create_page](.:assets/1-create_page.png)
 
 Chaque page dans une application Sveltekit se décompose en 3 parties : 
 
@@ -192,7 +192,7 @@ import Header from "$lib/Header.svelte";
 </style>
 ```
 
-![2-create_component](../../../../assets/js/nodejs/svelte/sveltekit/2-create_component.png)
+![2-create_component](.:assets/2-create_component.png)
 
 ## Les slots
 
@@ -740,7 +740,7 @@ import Header from "$lib/Header.svelte";
 </style>
 ```
 
-![11-css](../../../../assets/js/nodejs/svelte/sveltekit/11-css.png)
+![11-css](.:assets/11-css.png)
 
 ## Les animations
 
